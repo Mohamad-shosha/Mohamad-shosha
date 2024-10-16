@@ -1,9 +1,8 @@
-<div align="center">
-
-# 👋 Hello, I'm @Mohamad-shosha
+<div style="text-align: center;">
+    <img src="https://github.com/Mohamad-shosha/Mohamad-shosha/blob/main/WhatsApp%20Image%202024-10-15%20at%2021.58.27_f8fd513f.jpg?raw=true" alt="Mohamad's Photo" width="250" style="border-radius: 50%;"/> <!-- Adjust width as needed -->
 </div>
-Welcome to my GitHub profile! I'm a dedicated 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with a passion for crafting robust and scalable applications. 🌟
-
+<h2 style="text-align: center;">👋 Hello, I'm @Mohamad-shosha</h2>
+<p style="text-align: center;">Welcome to my GitHub profile! I'm a dedicated **𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫** with a passion for crafting robust and scalable applications. 🌟</p>
 
 ---
 
@@ -85,12 +84,9 @@ I enjoy participating in hackathons and coding competitions, which allows me to 
 | **GitHub**            | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 | **Postman API**       | ![Postman](https://img.shields.io/badge/Postman-FF6B00?style=flat&logo=postman&logoColor=white) |
 
-
 ### 🎓 Education
 - **Bachelor of Science in Computer Science Engineering (CSE)**, Al-Azhar University 🎓
 
 ---
 
 Feel free to explore my repositories, and let’s connect to bring great ideas to life! 🌟
-
-
