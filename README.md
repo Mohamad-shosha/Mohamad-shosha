@@ -36,11 +36,6 @@ I’m eager to collaborate on:
 
 ---
 
-## 😄 Pronouns
-**He/Him**
-
----
-
 ## ⚡ Fun Fact
 I thrive on solving complex problems and have consistently ranked among the top three students in my Computer Science Engineering (CSE) program. 🏆  
 I enjoy participating in hackathons and coding competitions, which allows me to push my limits and innovate. 
