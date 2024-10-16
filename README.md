@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Mohamad-shosha/Mohamad-shosha/blob/main/1706464783743.jpg?raw=true" alt="Mohamad's Photo" width="400" style="border-radius: 50%;"/> <!-- Adjust width as needed -->
+    <img src="https://github.com/Mohamad-shosha/Mohamad-shosha/blob/main/WhatsApp%20Image%202024-10-15%20at%2021.58.27_f8fd513f.jpg?raw=true" alt="Mohamad's Photo" width="400" style="border-radius: 50%;"/> <!-- Adjust width as needed -->
 </div>
 
 <h2 align="center">👋 Hello, I'm @Mohamad-shosha</h2>
