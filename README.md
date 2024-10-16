@@ -2,14 +2,16 @@
 
 # 👋 Hello, I'm @Mohamad-shosha
 </div>
-Welcome to my GitHub profile! I'm a dedicated **Back-End Development Engineer** with a passion for crafting robust and scalable applications. 🌟
+Welcome to my GitHub profile! I'm a dedicated 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with a passion for crafting robust and scalable applications. 🌟
+
 
 ---
 
 ## 🌟 Interests
-🚀 **Backend Development**: Specializing in **Java** and the **Spring Boot Framework**.  
-☁️ **Cloud Technologies**: Exploring how to leverage cloud services for scalable solutions.  
-🔗 **Microservices Architecture**: Enthusiastic about designing and implementing microservices for distributed systems.  
+- 🚀 **Backend Development**: 
+  - Specializing in **Java** and the **Spring Boot Framework**, I focus on creating efficient, maintainable, and scalable applications. 
+  - I enjoy implementing RESTful APIs, enabling seamless communication between services and enhancing overall application performance. 
+  - Passionate about best practices in software development, including code quality, testing, and deployment strategies, to ensure robust application delivery.  
 
 ---
 
@@ -47,23 +49,42 @@ I enjoy participating in hackathons and coding competitions, which allows me to 
 ---
 
 ### 💼 Skills
-| Programming Language | Icon |
-|----------------------|------|
-| **Java**             | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
-| **SQL**              | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white) |
-| **Spring Boot**      | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) |
-| **Hibernate**        | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) |
-| **Docker**           | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **JUnit**            | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) |
-| **Mockito**          | ![Mockito](https://img.shields.io/badge/Mockito-7C7C7C?style=flat&logo=mockito&logoColor=white) |
-| **HTML**             | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
-| **CSS**              | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Python**           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **PostgreSQL**       | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| **Liquibase**        | ![Liquibase](https://img.shields.io/badge/Liquibase-4E6E66?style=flat&logo=liquibase&logoColor=white) |
-| **H2**               | ![H2](https://img.shields.io/badge/H2-4E6E66?style=flat&logo=h2database&logoColor=white) |
 
----
+#### Programming Languages & Frameworks
+| Technology            | Icon |
+|-----------------------|------|
+| **Java**              | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
+| **Python**            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **SQL**               | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white) |
+| **HTML**              | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
+| **CSS**               | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
+
+#### Frameworks & Libraries
+| Technology            | Icon |
+|-----------------------|------|
+| **Spring Framework**  | ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white) |
+| **Spring Boot**       | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) |
+| **Hibernate**         | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) |
+| **JUnit**             | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) |
+| **Mockito**           | ![Mockito](https://img.shields.io/badge/Mockito-7C7C7C?style=flat&logo=mockito&logoColor=white) |
+| **Maven**             | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) |
+
+#### Databases & Tools
+| Technology            | Icon |
+|-----------------------|------|
+| **PostgreSQL**        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Liquibase**         | ![Liquibase](https://img.shields.io/badge/Liquibase-4E6E66?style=flat&logo=liquibase&logoColor=white) |
+| **H2**                | ![H2](https://img.shields.io/badge/H2-4E6E66?style=flat&logo=h2database&logoColor=white) |
+| **MySQL Workbench**   | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white) |
+
+#### DevOps & Tools
+| Technology            | Icon |
+|-----------------------|------|
+| **Docker**            | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Git**               | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **GitHub**            | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Postman API**       | ![Postman](https://img.shields.io/badge/Postman-FF6B00?style=flat&logo=postman&logoColor=white) |
+
 
 ### 🎓 Education
 - **Bachelor of Science in Computer Science Engineering (CSE)**, Al-Azhar University 🎓
