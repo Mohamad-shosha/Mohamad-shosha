@@ -1,8 +1,9 @@
-<div style="text-align: center;">
-    <img src="https://github.com/Mohamad-shosha/Mohamad-shosha/blob/main/WhatsApp%20Image%202024-10-15%20at%2021.58.27_f8fd513f.jpg?raw=true" alt="Mohamad's Photo" width="250" style="border-radius: 50%;"/> <!-- Adjust width as needed -->
+<div align="center">
+    <img src="https://github.com/Mohamad-shosha/Mohamad-shosha/blob/main/1706464783743.jpg?raw=true" alt="Mohamad's Photo" width="400" style="border-radius: 50%;"/> <!-- Adjust width as needed -->
 </div>
-<h2 style="text-align: center;">👋 Hello, I'm @Mohamad-shosha</h2>
-<p style="text-align: center;">Welcome to my GitHub profile! I'm a dedicated **𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫** with a passion for crafting robust and scalable applications. 🌟</p>
+
+<h2 align="center">👋 Hello, I'm @Mohamad-shosha</h2>
+<p style="text-align: center;">Welcome to my GitHub profile! I'm a dedicated 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with a passion for crafting robust and scalable applications. 🌟</p>
 
 ---
 
