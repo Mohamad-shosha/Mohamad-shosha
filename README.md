@@ -1,93 +1,165 @@
 <div align="center">
-    <img src="https://github.com/Mohamad-shosha/Mohamad-shosha/blob/main/WhatsApp%20Image%202024-10-15%20at%2021.58.27_f8fd513f.jpg?raw=true" alt="Mohamad's Photo" width="400" style="border-radius: 50%;"/> <!-- Adjust width as needed -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=1BF766&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;Back-End+Engineer+|+Spring+Boot+Specialist+🚀;Clean+Code+Advocate+|+OOP+%26+SOLID+Expert+✨;Collaborate+to+Innovate+%F0%9F%94%A5" alt="Typing SVG">
 </div>
 
-<h2 align="center">👋 Hello, I'm @Mohamad Shosha</h2>
-<p style="text-align: center;">Welcome to my GitHub profile! I'm a dedicated 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with a passion for crafting robust and scalable applications. 🌟</p>
+<h1 align="center">🌟 Mohamed Shosha 🌟</h1>
+<h3 align="center">Passionate Back-End Developer | Java Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <a href="mailto:moshosha267@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mohamed-shosha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mohamedshosha.com"><img src="https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://facebook.com/mohamed.shosha.74"><img src="https://img.shields.io/badge/Facebook-Connect-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://github.com/Mohamad-shosha"><img src="https://img.shields.io/badge/GitHub-Check%20Out-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-## 🌟 Interests
-- 🚀 **Backend Development**: 
-  - Specializing in **Java** and the **Spring Boot Framework**, I focus on creating efficient, maintainable, and scalable applications. 
-  - I enjoy implementing RESTful APIs, enabling seamless communication between services and enhancing overall application performance. 
-  - Passionate about best practices in software development, including code quality, testing, and deployment strategies, to ensure robust application delivery.  
+##  About Me
+
+Hi there! My name is **Mohamed Shosha**, and I’m a **23-year-old Back-End Developer** with a passion for building scalable, efficient, and user-centric applications. I specialize in **Java**, **Spring Boot**, and **database management** to deliver clean and impactful solutions.
+
+- 🎓**Al-Azhar University**  
+Bachelor’s, Computer Science Engineering (CSE)  
+Oct 2021 - Jun 2025  
+Grade: Excellent  
+Activities and societies: Consistently ranked among the top three students in the Computer Science Engineering (CSE) program.  
+- Participated in various academic and extracurricular activities related to CSE.  
+Currently in the final year of the Bachelor’s program in Computer Science Engineering (CSE) at the Faculty of Engineering, Al-Azhar University, with an "Excellent" grade throughout my studies. Ranked consistently among the top three students and involved in extracurricular activities to enhance my knowledge and skills in Computer Science Engineering.
+
+- 🔭 **Currently Working On**:  
+I am a skilled and motivated Back-End development engineer with exceptional problem-solving abilities. I specialize in the field of Backend development using the Java language and the Spring Boot Framework.  
+I am committed to staying up-to-date with the latest advancements in the field and am passionate about technology. I am confident that I can make valuable contributions to any project or team.
+- ⚡ **Hobbies**: Sports, Quran memorization, and exploring the latest in tech
 
 ---
 
-## 🌱 Current Learning
-I am diving deeper into:
-- 📚 Advanced Spring Boot techniques
-- ⚙️ Database optimization strategies
-- 🏗️ Modern software architecture patterns
+## 🛠️ My Tech Toolbox
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-%23004880.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### **Frameworks & Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005599.svg?style=for-the-badge&logo=thymeleaf&logoColor=white">
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/H2-Database-%234E6E66.svg?style=for-the-badge&logoColor=white">
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
 ---
 
-## 🤝 Collaboration
-I’m eager to collaborate on:
-- 🌍 Open-source projects
-- 💡 Innovative tech solutions
-- 🚀 Anything that challenges the status quo in software development
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamad-shosha&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-shosha&theme=tokyonight" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shosha&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamad-shosha&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</p>
+
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/mohamed-shosha-1510132bb/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://facebook.com/mohammed.shosha.969" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/mohamad_shosha_74/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" />
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mohamad-shosha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <a href="https://github.com/Mohamad-shosha">
+        <img src="https://img.shields.io/github/followers/mohamad-shosha?label=Followers&style=social" alt="GitHub Followers">
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=mohamad-shosha" alt="mohamad-shosha" />
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://twitter.com/" target="blank">
+        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+    </a>
+</p>
 
 ---
 
-## 📫 Contact Me
-- **Email**: [moshosha267@gmail.com](mailto:moshosha267@gmail.com) 📧  
-- **Phone**: 01070658742 📞  
-- **Location**: Gardenia City 🏡  
-
----
-
-## ⚡ Fun Fact
-I thrive on solving complex problems and have consistently ranked among the top three students in my Computer Science Engineering (CSE) program. 🏆  
-I enjoy participating in hackathons and coding competitions, which allows me to push my limits and innovate. 
-
----
-
-**"I am a skilled and motivated Back-End development engineer with exceptional problem-solving abilities. I specialize in backend development using the Java language and the Spring Boot framework. Committed to staying up-to-date with the latest advancements in technology, I am confident in my ability to contribute effectively to any project or team."**
-
----
-
-### 💼 Skills
-
-#### Programming Languages & Frameworks
-| Technology            | Icon |
-|-----------------------|------|
-| **Java**              | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
-| **Python**            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **SQL**               | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white) |
-| **HTML**              | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
-| **CSS**               | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
-
-#### Frameworks & Libraries
-| Technology            | Icon |
-|-----------------------|------|
-| **Spring Framework**  | ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white) |
-| **Spring Boot**       | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) |
-| **Hibernate**         | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) |
-| **JUnit**             | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) |
-| **Mockito**           | ![Mockito](https://img.shields.io/badge/Mockito-7C7C7C?style=flat&logo=mockito&logoColor=white) |
-| **Maven**             | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) |
-
-#### Databases & Tools
-| Technology            | Icon |
-|-----------------------|------|
-| **PostgreSQL**        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| **Liquibase**         | ![Liquibase](https://img.shields.io/badge/Liquibase-4E6E66?style=flat&logo=liquibase&logoColor=white) |
-| **H2**                | ![H2](https://img.shields.io/badge/H2-4E6E66?style=flat&logo=h2database&logoColor=white) |
-| **MySQL Workbench**   | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white) |
-
-#### DevOps & Tools
-| Technology            | Icon |
-|-----------------------|------|
-| **Docker**            | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Git**               | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| **GitHub**            | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-| **Postman API**       | ![Postman](https://img.shields.io/badge/Postman-FF6B00?style=flat&logo=postman&logoColor=white) |
-
-### 🎓 Education
-- **Bachelor of Science in Computer Science Engineering (CSE)**, Al-Azhar University 🎓
-
----
-
-Feel free to explore my repositories, and let’s connect to bring great ideas to life! 🌟
+<div align="center">
+  <h3>🚀 Let's Build the Future Together! 🚀</h3>
+</div>
