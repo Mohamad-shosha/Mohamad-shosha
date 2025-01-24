@@ -120,9 +120,6 @@ I am committed to staying up-to-date with the latest advancements in the field a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shosha&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamad-shosha&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-</p>
 
 ---
 
