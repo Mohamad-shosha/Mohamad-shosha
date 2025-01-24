@@ -32,58 +32,6 @@ I am a skilled and motivated Back-End development engineer with exceptional prob
 I am committed to staying up-to-date with the latest advancements in the field and am passionate about technology. I am confident that I can make valuable contributions to any project or team.
 - ⚡ **Hobbies**: Sports, Quran memorization, and exploring the latest in tech
 
----
-
-## 🛠️ My Tech Toolbox
-
-### **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-%23004880.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-
-### **Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
-  <img src="https://img.shields.io/badge/Thymeleaf-%23005599.svg?style=for-the-badge&logo=thymeleaf&logoColor=white">
-</p>
-
-### **Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/H2-Database-%234E6E66.svg?style=for-the-badge&logoColor=white">
-</p>
-
-### **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamad-shosha&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-shosha&theme=tokyonight" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shosha&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamad-shosha&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-</p>
 
 ---
 <h3 align="left">Connect with me:</h3>
@@ -159,6 +107,63 @@ I am committed to staying up-to-date with the latest advancements in the field a
 </p>
 
 ---
+
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamad-shosha&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-shosha&theme=tokyonight" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shosha&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamad-shosha&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</p>
+
+---
+
+
+## 🛠️ My Tech Toolbox
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-%23004880.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### **Frameworks & Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005599.svg?style=for-the-badge&logo=thymeleaf&logoColor=white">
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/H2-Database-%234E6E66.svg?style=for-the-badge&logoColor=white">
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
+
+---
+
+
 
 <div align="center">
   <h3>🚀 Let's Build the Future Together! 🚀</h3>
