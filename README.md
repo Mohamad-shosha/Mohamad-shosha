@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="mailto:moshosha267@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mohamed-shosha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mohamed-shosha-1510132bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://mohamedshosha.com"><img src="https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://facebook.com/mohamed.shosha.74"><img src="https://img.shields.io/badge/Facebook-Connect-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.facebook.com/mohammed.shosha.969"><img src="https://img.shields.io/badge/Facebook-Connect-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://github.com/Mohamad-shosha"><img src="https://img.shields.io/badge/GitHub-Check%20Out-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
