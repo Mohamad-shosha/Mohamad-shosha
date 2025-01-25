@@ -85,6 +85,12 @@ I am committed to staying up-to-date with the latest advancements in the field a
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-%231877F2.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" width="40" height="40" />
+    </a>
+    <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/NetBeans-%23000000.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" width="40" height="40" />
+    </a>
 </p>
 
 <p align="center">
@@ -156,11 +162,11 @@ I am committed to staying up-to-date with the latest advancements in the field a
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%231877F2.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeans-%23000000.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white">
 </p>
 
 ---
-
-
 
 <div align="center">
   <h3>🚀 Let's Build the Future Together! 🚀</h3>
